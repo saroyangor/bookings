@@ -1,1 +1,5 @@
 .idea
+database.yml
+run.bat
+coverage.out
+bookings.exe
