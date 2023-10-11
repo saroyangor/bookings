@@ -23,7 +23,7 @@ execute this command:
 ```
 go build -o bookings ./cmd/web/ && ./bookings \
 -dbname=bookings \
--dbuser=tcs
+-dbuser=postgress
 ```
 where you have the correct entires for your database name (dbName)
 and database user (dbUser)
